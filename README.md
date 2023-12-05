@@ -1,3 +1,4 @@
 # odin-recipes
-goal of the project: 
-skills demonstrated:
+project title: Odin-recipes
+
+skills demonstrated: basic HTML
